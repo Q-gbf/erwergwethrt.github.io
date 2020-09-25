@@ -17,7 +17,5 @@ MarkDown是一种超文本语言，今天第一次学习它。
 >所以俗称发烧友或者怪杰。
 
 有点意思，下面这张gif可以形容我的心情：
-
-
-![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
+![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)。
 
